@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: main.Main
+Class-Path: javafx-graphics-17.0.1-win.jar audio-4.0.9.jar controlsfx-11
+ .1.1.jar mysql-connector-j-8.4.0.jar protobuf-java-3.25.1.jar jackson-c
+ ore-2.12.1.jar javafx-controls-17.0.1-win.jar javafx-media-17.0.1.jar v
+ alidatorfx-0.2.1.jar lifecycle-4.0.9.jar javafx-fxml-17.0.1-win.jar fxg
+ l-io-17.jar fxgl-scene-17.jar javafx-controls-17.0.1.jar tilesfx-11.48.
+ jar kotlin-stdlib-common-1.5.32.jar fxgl-17.jar bootstrapfx-core-0.4.0.
+ jar javafx-graphics-17.0.1.jar jackson-annotations-2.12.1.jar fxgl-enti
+ ty-17.jar fxgl-gameplay-17.jar ikonli-javafx-12.3.0.jar jackson-databin
+ d-2.12.1.jar util-4.0.9.jar javafx-web-17.0.1.jar javafx-fxml-17.0.1.ja
+ r javafx-web-17.0.1-win.jar formsfx-core-11.3.2.jar ikonli-core-12.3.0.
+ jar javafx-base-17.0.1-win.jar fxgl-core-17.jar kotlin-stdlib-1.5.32-mo
+ dular.jar annotations-13.0.jar storage-4.0.9.jar javafx-base-17.0.1.jar
+  javafx-media-17.0.1-win.jar
+
